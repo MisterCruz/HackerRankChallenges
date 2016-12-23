@@ -3,7 +3,7 @@
 '''
 Objective:
 
-Print the largest (maximum) hourglass sum found in Array A
+Print the largest (maximum) hourglass sum found in a 2D 6 x 6 Array A
 
 
 Sample Input:
