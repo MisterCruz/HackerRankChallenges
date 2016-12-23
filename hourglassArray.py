@@ -24,7 +24,7 @@ Sample Output:
 
 
 
-Explaination:
+Explanation:
 
 
 An hourglass is represented like:
