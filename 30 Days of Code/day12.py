@@ -29,8 +29,8 @@ class Student(Person):
 
 
     def calculate(self):
-
         sum = 0
+
         for score in self.scores:
             sum += score
 
